@@ -1,4 +1,4 @@
-[![Rustica](public/about-rustica.jpg)](https://yanji.tech)
+[![Rustica](../public/about-rustica.jpg)](https://yanji.tech)
 
 # Rustica
 
